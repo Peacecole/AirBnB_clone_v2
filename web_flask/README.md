@@ -14,6 +14,7 @@ It contains the following files
 	- 10-hbnb_filters.py
 	- __init__.py
 It also contains the following sub-directories
+	
 	- models
 	- static
 	- templates
